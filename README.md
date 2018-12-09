@@ -2,7 +2,7 @@
 
 A basic version of the popular game 'pacman' made in C and using ASCII to draw the screen & the characters. Runs in linux systems.
 
-## Instalation:
+## Installation:
 
 In order to run the game, you will need the ncurses library installed in your system.
 
